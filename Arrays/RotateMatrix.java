@@ -1,5 +1,4 @@
-import java.util.Arrays;
-
+import java.util.Arrays;//rotate th matrix
 class RotateMatrix{
 
     public static void printMatrix(int[][] arr){
