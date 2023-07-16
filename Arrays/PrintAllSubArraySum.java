@@ -1,3 +1,5 @@
+//print the sum of all the sub array
+
 public class PrintAllSubArraySum {
     static void BrutPrintSubarraySum(int[] arr){ //-->tc =O(n^3)
         for(int i = 0;i<arr.length;i++){
