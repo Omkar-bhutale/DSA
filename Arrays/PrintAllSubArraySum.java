@@ -63,6 +63,7 @@ public class PrintAllSubArraySum {
         }
 
     }
+    
     public static void main(String[] args) {
         optiSumofAllSubarrays1(new int[] {1,2,3,4});
     }
