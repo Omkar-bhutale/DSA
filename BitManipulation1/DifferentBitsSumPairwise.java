@@ -16,9 +16,10 @@ public class DifferentBitsSumPairwise {
     //     }
     //     return ans;
     // }
+        
     //step 1 opti //not works for hard cases
-    public class Solution {
-    public int cntBits(int[] A) {
+    
+   
         long ans=0;
         for(int i=0;i<32;i++){
             int ones=0;
@@ -31,7 +32,8 @@ public class DifferentBitsSumPairwise {
             
         }
         return ans;
-    }
-}
+        
+  
 
+    }
 }
