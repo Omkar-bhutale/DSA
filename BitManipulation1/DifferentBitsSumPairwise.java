@@ -33,6 +33,9 @@ public class DifferentBitsSumPairwise {
         // }
         // return ans;
 
+    }
+}
+
         //most working approch
         public class Solution {
     public int cntBits(List<Integer> a) {
@@ -53,6 +56,3 @@ public class DifferentBitsSumPairwise {
 
 
   
-
-    }
-}
